@@ -1,0 +1,134 @@
+21
+22
+Team Sky
+1,Froome,Christopher
+2,Henao,Sergio Luis
+9,Thomas,Geraint
+5,Nieve,Mikel
+6,Poels,Wouter
+Movistar Team
+11,Quintana,Nairo
+12,Valverde,Alejandro
+18,Moreno Fernandez,Daniel
+17,Izaguirre,Ion
+13,Anacona Gomez,Winner Andrew
+Astana Pro Team
+21,Aru,Fabio
+25,Kangert,Tanel
+22,Nibali,Vincenzo
+27,Rosa,Diego
+28,Sanchez Gil,Luis-Leon
+Tinkoff
+36,Kreuziger,Roman
+37,Majka,Rafal
+35,Kiserlovski,Robert
+39,Valgren Andersen,Michael
+32,Sagan,Peter
+Ag2r La Mondiale
+41,Bardet,Romain
+49,Vuillermoz,Alexis
+48,Pozzovivo,Domenico
+42,Bakelants,Jan
+43,Cherel,Mikael
+Team Lotto Nl - Jumbo
+51,Kelderman,Wilco
+52,Bennett,George
+54,Lindeman,Bert Jan
+55,Martens,Paul
+57,Vanmarcke,Sep
+Trek - Segafredo
+61,Mollema,Bauke
+69,Zubeldia,Haimar
+65,Schleck,Frank
+66,Stetina,Peter
+67,Stuyven,Jasper
+Iam Cycling
+72,Clement,Stef
+79,Pantano,Jarlinson
+74,Elmiger,Martin
+73,Coppel,Jerome
+78,Naesen,Oliver
+Cannondale Drapac Team
+81,Rolland,Pierre
+88,Slagter,Tom Jelte
+89,Van Baarle,Dylan
+83,Craddock,Lawson
+84,Howes,Alex
+Bmc Racing Team
+91,Porte,Richie
+94,Caruso,Damiano
+99,Van Garderen,Tejay
+98,Van Avermaet,Greg
+96,Moinard,Amael
+Team Dimension Data
+107,Pauwels,Serge
+109,Teklehaimanot,Daniel
+103,Boasson Hagen,Edvald
+106,Janse Van Rensburg,Reinardt
+102,Berhane,Natnael
+Team Giant-Alpecin
+111,Barguil,Warren
+116,Preidler,Georg
+115,Geschke,Simon
+118,Ten Dam,Laurens
+112,Curvers,Roy
+Fdj
+126,Reichenbach,Sebastien
+124,Morabito,Steve
+127,Roux,Anthony
+129,Vichot,Arthur
+128,Roy,Jeremy
+Bora-Argon 18
+131,Buchmann,Emanuel
+136,Huzarski,Bartosz
+137,Konrad,Patrick
+133,Barta,Jan
+139,Voss,Paul
+Team Katusha
+141,Rodriguez Oliver,Joaquin
+149,Zakarin,Ilnur
+145,Losada,Alberto
+148,Vicioso,Angel
+144,Kristoff,Alexander
+Lampre - Merida
+157,Meintjes,Louis
+151,Faria Da Costa,Rui Alberto
+155,Durasek,Kristijan
+159,Polanc,Jan
+156,Grmay,Tsgabu Gebremaryam
+Lotto Soudal
+163,De Gendt,Thomas
+165,Gallopin,Tony
+166,Hansen,Adam
+168,Roelandts,Jurgen
+161,Greipel,Andre
+Direct Energie
+172,Chavanel,Sylvain
+175,Jeandesboz,Fabrice
+179,Voeckler,Thomas
+177,Sicard,Romain
+173,Duchesne,Antoine
+Etixx-Quick Step
+184,Martin,Daniel
+182,Alaphilippe,Julian
+189,Vermote,Julien
+188,Vakoc,Petr
+183,Keisse,Iljo
+Cofidis, Solutions Credits
+198,Mate Mardones,Luis Angel
+195,Jeannesson,Arnold
+194,Edet,Nicolas
+193,Cousin,Jerome
+197,Lemoine,Cyril
+Orica-Bikeexchange
+209,Yates,Adam
+205,Impey,Daryl
+208,Plaza Molina,Ruben
+207,Matthews,Michael
+203,Durbridge,Luke
+Fortuneo - Vital Concept
+211,Sepulveda,Eduardo
+214,Feillu,Brice
+218,Sorensen,Chris Anker
+213,Delaplace,Anthony
+217,Perichon,Pierre-Luc
